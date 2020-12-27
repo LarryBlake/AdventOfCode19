@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="tyranny.txt" />
+    <Content Include="wires.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
